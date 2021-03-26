@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "restaurant-apps",
+  "description": "Platform berbagi makanan yang ada di Indonesia",
+  "icons": {
+    "60": "/assets/firefox_app_60x60.png",
+    "128": "/assets/firefox_app_128x128.png",
+    "512": "/assets/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Robertus Adrian",
+    "url": null
+  }
+}

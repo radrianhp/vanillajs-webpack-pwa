@@ -1,0 +1,8 @@
+{
+  "name": "App",
+  "short_name": "App",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "from": "/Users/DCCOMPANCING/Documents/PROJECT/FASILITATOR DICODING/restaurant-apps/src/public/manifest.json"
+}
